@@ -1,0 +1,53 @@
+body{background-color: green;
+}
+
+p{
+  color:white;
+  font-size: 20px;
+}
+
+.cupcakes{color:yellow;
+  font-size: 100px;
+}
+
+#icing{color:green;
+}
+
+.sparta {color: lime;
+  font-family: cursive;
+
+}
+
+.orange {color: orange;
+}
+
+.redSuper {color: red;
+vertical-align: super;
+}
+
+.redSuper, .orange {
+  text-transform: capitalize;
+}
+
+.sleepypuppy {
+  position: fixed;
+}
+
+.box {
+  background-color: purple;
+  margin: 20px 10% 20px 10%;
+  border: black 3px dashed;
+  padding: 10px 20% 10px 20%;
+}
+
+.box p{
+  color: pink;
+}
+
+.some {
+  text-transform: uppercase;
+  color: blue;
+}
+.swift {color: black;
+  font-size: 50px;
+}
